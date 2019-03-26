@@ -1,4 +1,4 @@
-# News_Clasifier
+# News_Classifier
 
 Gather news from multiple sites of information and classifies them.
 
