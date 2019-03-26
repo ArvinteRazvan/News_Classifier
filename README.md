@@ -1,6 +1,9 @@
 # News_Clasifier
+
 Gather news from multiple sites of information and classifies them.
+
 The posts folder has multiple posts from multiple sites.
+
 The evaluations folder has each post from each category evaluated how much does it belong to each category.
 
 Every post is in JSON format.
